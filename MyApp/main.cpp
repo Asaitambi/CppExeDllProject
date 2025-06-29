@@ -4,6 +4,7 @@
 int main() {
     std::cout << "Calling DLL function ror sample" << std::endl;
      std::cout << "Calling DLL" << std::endl;
+    std::cout << "Calling DL111L" << std::endl;
     say_hello();
     return 0;
 }
