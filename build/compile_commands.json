@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/TMS_Dev/CppExeDllProject/build/MyLibrary",
+  "command": "C:\\MinGW\\bin\\g++.exe -DMYLIBRARY_EXPORTS -DMyLibrary_EXPORTS @CMakeFiles/MyLibrary.dir/includes_CXX.rsp -g -o CMakeFiles\\MyLibrary.dir\\MyLibrary.cpp.obj -c D:\\TMS_Dev\\CppExeDllProject\\MyLibrary\\MyLibrary.cpp",
+  "file": "D:/TMS_Dev/CppExeDllProject/MyLibrary/MyLibrary.cpp",
+  "output": "MyLibrary/CMakeFiles/MyLibrary.dir/MyLibrary.cpp.obj"
+},
+{
+  "directory": "D:/TMS_Dev/CppExeDllProject/build/MyApp",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/MyApp.dir/includes_CXX.rsp -g -o CMakeFiles\\MyApp.dir\\main.cpp.obj -c D:\\TMS_Dev\\CppExeDllProject\\MyApp\\main.cpp",
+  "file": "D:/TMS_Dev/CppExeDllProject/MyApp/main.cpp",
+  "output": "MyApp/CMakeFiles/MyApp.dir/main.cpp.obj"
+}
+]

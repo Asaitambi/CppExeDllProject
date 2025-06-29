@@ -1,0 +1,6 @@
+{
+  "cmake.generator": "MinGW Makefiles", // or "NMake Makefiles" or "Ninja"
+  "cmake.sourceDirectory": "${workspaceFolder}",
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.configureOnOpen": true
+}

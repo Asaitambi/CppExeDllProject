@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "MyLibrary",
+					"jsonFile" : "directory-MyLibrary-Debug-9f179b5ff13c3ffa5d92.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MyLibrary",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "MyApp",
+					"jsonFile" : "directory-MyApp-Debug-23fd6e1e9eb9c53a2275.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MyApp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "CppExeDllProject",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "MyApp::@c4dcf9e83b89b987f122",
+					"jsonFile" : "target-MyApp-Debug-3a119c45cbb37daf52b8.json",
+					"name" : "MyApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MyLibrary::@2e220713f97ed328bb33",
+					"jsonFile" : "target-MyLibrary-Debug-b8b561e90701902a1ee1.json",
+					"name" : "MyLibrary",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/TMS_Dev/CppExeDllProject/build",
+		"source" : "D:/TMS_Dev/CppExeDllProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

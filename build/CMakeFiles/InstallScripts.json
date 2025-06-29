@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/TMS_Dev/CppExeDllProject/build/cmake_install.cmake",
+		"D:/TMS_Dev/CppExeDllProject/build/MyLibrary/cmake_install.cmake",
+		"D:/TMS_Dev/CppExeDllProject/build/MyApp/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
