@@ -2,7 +2,7 @@
 #include "MyLibrary.h"
 
 int main() {
-    std::cout << "Callin sdfsdfdsfdsfsdfsdfs" << std::endl;
+    std::cout << "Callin from others" << std::endl;
     say_hello();
     return 0;
 }
